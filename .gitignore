@@ -1,9 +1,8 @@
-# Build artifacts
+# Build artifacts (keep installer package)
 build/
 
-# Keep installer package
-!dist/番茄钟_安装包/
-!dist/番茄钟.exe
+# Ignore PyInstaller build temp but keep dist outputs
+build_installer/
 
 # Node.js
 node_modules/
