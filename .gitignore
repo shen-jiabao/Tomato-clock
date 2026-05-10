@@ -1,7 +1,9 @@
 # Build artifacts
-dist/
 build/
-*.spec
+
+# Keep installer package
+!dist/番茄钟_安装包/
+!dist/番茄钟.exe
 
 # Node.js
 node_modules/
