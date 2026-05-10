@@ -14,8 +14,7 @@
 - **配置持久化**：设置自动保存到本地
 
 ## ️ 界面预览
-
-![番茄钟界面](https://github.com/shen-jiabao/Tomato-clock/raw/main/assets/screenshot.png)
+![alt text](image.png)
 
 ## 📦 安装方式
 
