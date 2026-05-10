@@ -1,0 +1,4 @@
+tkinter
+Pillow
+pystray
+pywin32
