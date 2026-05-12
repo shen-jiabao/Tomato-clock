@@ -81,9 +81,6 @@ python main.py
 ```
 Tomato-clock/
 ├── main.py                 # 桌面应用主程序
-├── app.js                  # 网页版逻辑 (可选)
-├── style.css               # 网页版样式 (可选)
-├── index.html              # 网页版主页面 (可选)
 ├── run.py                  # 运行入口
 ├── pomodoro.spec           # PyInstaller 打包配置
 ├── .gitignore              # Git 忽略规则
